@@ -1,0 +1,4 @@
+entertainment,bollywood,tollywood,hollywood,cinema,screen,remake,actor,actress,director,producer,remunaration,artist,hero,heroine,movie,music,review,box-office,acting,web series,award,
+nandi,film fare,rocking,release,theatre,tv show,singer,film,satr,looks,audience,released,story,watch,trailer,teaser,shooting,shot,
+take,audience,hit,flop,budget,gossip,collections,all-time,blockbuster,sequels,re-release,popular,song,dance,fights,nominations,nominated,produced,Awards,impressive,
+hot,promo,revenue,supporting,climax,motion,picture,studios,success,writer,master,cinematography,recording,camera,acting

@@ -1,0 +1,5 @@
+sports,game,cricket,match,play ground,stadium,team,football,player,playing,tie,drawn,won,loss,physical,spectators,tennis,badminton,playoffs,racing,compete,olympic,chess,
+competition,winner,winning,sporting, broadcasting,betting,association,goals,wickets,runs,under pressure,history,coach,ball,bat,football,ICC, outstanding,performance,
+fitness,strength,physio,trainer,Auction,council,clean sweep,points table,points,Ground,series,in-form,tri-series,club,goal, 
+best team,defending ,squad,Champions,against,played,League,sledging,score,beat,trophy,doping,cup,Final,finals,re-match,semifinal,olympics,cermony,field,medals,
+

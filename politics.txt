@@ -1,0 +1,5 @@
+politics,bjp,congress,politician,party,parties,minister,mla,mlc,elections,votes,voters,nomination,representative,
+democracy,democratic,ballot,government,electorate,democracies,By-elections,assembly,issue,nda,local,national,scam,corruption,
+leader,opposition,speech,parliment,sabha,coalition,resigned,resign,resignation,agenda,convener,governer,defeat,allies,presidential,
+candidate,Vice-President,president,won,lost,elected,meeting,legislators,support,independents,Deputy,funds,Conduct,State,
+National,delegates,vacancies,policy-makers,budget,opposition,petition,nation
